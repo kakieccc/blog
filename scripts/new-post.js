@@ -47,10 +47,10 @@ title: ${args[0]}
 published: ${getDate()}
 description: ''
 image: ''
-tags: []
-category: ''
-draft: false 
-lang: ''
+tags: [LLM]
+category: 'LLM'
+draft: false
+lang: 'zh_CN'
 ---
 `
 

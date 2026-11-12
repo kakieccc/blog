@@ -1,15 +1,13 @@
 ---
-title: Transformer详解
+title: Transformer 详解：从 Attention 到现代大模型架构
 published: 2026-03-27
-description: '详解Transformer网络结构以及attention'
+description: '从 Q、K、V 和缩放点积注意力出发，拆解 Transformer 的编码器、解码器与训练推理过程，再理解 RMSNorm、SwiGLU 和 RoPE 等现代架构改进。'
 image: ''
-tags: [Markdown,note,LLM]
+tags: [LLM, Transformer, Attention]
 category: 'LLM'
-draft: false 
-lang: ''
+draft: false
+lang: 'zh_CN'
 ---
-
-[toc]
 
 # Attention
 

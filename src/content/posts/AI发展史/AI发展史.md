@@ -1,12 +1,12 @@
 ---
-title: AI发展史
+title: AI 发展史：从规则系统到深度学习
 published: 2026-03-18
-description: '从机器学习到深度学习的AI发展史'
+description: '面向 LLM 入门梳理人工智能的发展脉络，从规则系统、经典机器学习到神经网络、CNN 与 RNN，建立理解大模型所需的知识框架。'
 image: ''
-tags: [Markdown,note,LLM]
+tags: [LLM, 机器学习, 深度学习]
 category: 'LLM'
-draft: false 
-lang: ''
+draft: false
+lang: 'zh_CN'
 ---
 # 绪论
 
